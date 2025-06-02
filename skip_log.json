@@ -1,0 +1,10 @@
+{
+  "removed": [
+    {
+      "id": "example_track_id",
+      "title": "Example Song",
+      "artist": "Example Artist",
+      "timestamp": "2025-06-02T14:00:00"
+    }
+  ]
+}
